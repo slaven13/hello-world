@@ -14,4 +14,7 @@
     <li style="background-color: burlywood;">
         <span style="cursor: copy;">One more element</span>
     </li>
+    <li style="background-color:chartreuse">
+        <span style="cursor: copy;">Yet another more element</span>
+    </li>
 </ul>
