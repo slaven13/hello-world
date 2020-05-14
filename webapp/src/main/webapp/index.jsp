@@ -4,3 +4,14 @@
 <h3> Let's do some Ansible, Docker and so... </h3>
 <p>Some text</p>
 <p>More Some text</p>
+<ul>
+    <li>
+        One element
+    </li>
+    <li>
+        Other element
+    </li>
+    <li>
+        One more element
+    </li>
+</ul>
