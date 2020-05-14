@@ -8,7 +8,7 @@
     <li style="font-family: 'Courier New', Courier, monospace;">
         One element
     </li>
-    <li>
+    <li style="font-family: cursive;">
         Other element
     </li>
     <li>
