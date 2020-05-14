@@ -11,7 +11,7 @@
     <li style="font-family: cursive;">
         Other element
     </li>
-    <li>
-        One more element
+    <li style="background-color: burlywood;">
+        <span style="cursor: copy;">One more element</span>
     </li>
 </ul>
