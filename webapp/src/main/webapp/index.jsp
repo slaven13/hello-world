@@ -4,8 +4,8 @@
 <h3> Let's do some Ansible, Docker and so... </h3>
 <p>Some text</p>
 <p>More Some text</p>
-<ul>
-    <li>
+<ul style="background-color: aquamarine;"> 
+    <li style="font-family: 'Courier New', Courier, monospace;">
         One element
     </li>
     <li>
